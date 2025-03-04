@@ -1,3 +1,4 @@
+baseURL = "https://Zumh.github.io/"
 name = "Gruvbox"
 license = "MIT"
 licenselink = "https://github.com/schnerring/hugo-theme-gruvbox/blob/main/LICENSE"
