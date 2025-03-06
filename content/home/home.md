@@ -12,13 +12,17 @@ draft = false
     subtitle="Software Engineer <h4><code>backend/system developer</code></h4>"
     
     description="I design, build and solved problems. <br/>Skillls: <ul><li>Python</li><li>C/C++</li> <li>Rust</li> <li>ARM Assembly</li></ul>"
+
+    button_url="/files/ller.pdf"
+    button_text="RESUME"
+    button_icon="icon-file-pdf"
     
-    button_icon="icon-user"
-    button_text="Resume"
-    button_url="/files/ller.pdf" button2_text="Download résumé"
+    
 
  >}}
+
 {{< platform-links >}}
+
     {{< link icon="email" url="zumhliansang@live.ca" >}}zumhliansang@live.ca
 
     {{< link icon="square-github" url="https://github.com/Zumh" >}}https://github.com/Zumh
