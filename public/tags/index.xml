@@ -1,68 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on hugo-theme-gruvbox</title>
+    <title>Tags on </title>
     <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on hugo-theme-gruvbox</description>
+    <description>Recent content in Tags on </description>
     <generator>Hugo</generator>
     <language>en</language>
-    <copyright>Copyright © 2021</copyright>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2025 14:38:33 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Css</title>
-      <link>http://localhost:1313/tags/css/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/css/</guid>
+      <title>Adritian</title>
+      <link>http://localhost:1313/tags/adritian/</link>
+      <pubDate>Fri, 14 Feb 2025 14:38:33 +0200</pubDate>
+      <guid>http://localhost:1313/tags/adritian/</guid>
       <description></description>
     </item>
     <item>
-      <title>Html</title>
-      <link>http://localhost:1313/tags/html/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/html/</guid>
+      <title>Guide</title>
+      <link>http://localhost:1313/tags/guide/</link>
+      <pubDate>Fri, 14 Feb 2025 14:38:33 +0200</pubDate>
+      <guid>http://localhost:1313/tags/guide/</guid>
       <description></description>
     </item>
     <item>
-      <title>Hugo-Basic-Example</title>
-      <link>http://localhost:1313/tags/hugo-basic-example/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/hugo-basic-example/</guid>
+      <title>Lorem-Ipsum</title>
+      <link>http://localhost:1313/tags/lorem-ipsum/</link>
+      <pubDate>Fri, 21 Jun 2024 14:38:33 +0200</pubDate>
+      <guid>http://localhost:1313/tags/lorem-ipsum/</guid>
       <description></description>
     </item>
     <item>
-      <title>Markdown</title>
-      <link>http://localhost:1313/tags/markdown/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/markdown/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Privacy</title>
-      <link>http://localhost:1313/tags/privacy/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/privacy/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Shortcodes</title>
-      <link>http://localhost:1313/tags/shortcodes/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/shortcodes/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Text</title>
-      <link>http://localhost:1313/tags/text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/text/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Emoji</title>
-      <link>http://localhost:1313/tags/emoji/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/emoji/</guid>
+      <title>Sample</title>
+      <link>http://localhost:1313/tags/sample/</link>
+      <pubDate>Fri, 21 Jun 2024 14:38:33 +0200</pubDate>
+      <guid>http://localhost:1313/tags/sample/</guid>
       <description></description>
     </item>
   </channel>

@@ -1,49 +1,19 @@
 ---
-title: "CV"
-draft: false
-type: "cv"
+title: 'Printable CV'
+hideTitle: true
 ---
 
-## Experience
+ℹ This page is a demo of the printer-friendly output of the theme. You can find the source code in the demo repo (https://raw.githubusercontent.com/zetxek/adritian-demo/refs/heads/main/content/cv.md). Try printing it directly from your browser! 
 
-{{< json-resume "work" >}}
+### About me
 
-## Education
+I am a passionate software engineer with over 10 years of experience building web applications and distributed systems. My expertise spans full-stack development, cloud architecture, and leading engineering teams to deliver impactful solutions. I thrive on solving complex technical challenges while mentoring others and fostering a collaborative engineering culture.
 
-{{< json-resume "education" >}}
+Throughout my career, I've focused on creating scalable, maintainable software using modern technologies and best practices. I'm particularly interested in distributed systems, performance optimization, and building resilient architectures. When I'm not coding, I enjoy contributing to open source projects and sharing knowledge through technical writing and speaking at conferences.
 
-## Volunteering
+### Experience
 
-{{< json-resume "volunteer" >}}
+{{< experience-list >}}
 
-## Awards
+{{< education-list title="Education" >}}
 
-{{< json-resume "awards" >}}
-
-## Certificates
-
-{{< json-resume "certificates" >}}
-
-## Publications
-
-{{< json-resume "publications" >}}
-
-## Skills
-
-{{< json-resume "skills" >}}
-
-## Languages
-
-{{< json-resume "languages" >}}
-
-## Interests
-
-{{< json-resume "interests" >}}
-
-## References
-
-{{< json-resume "references" >}}
-
-## Projects
-
-{{< json-resume "projects" >}}
