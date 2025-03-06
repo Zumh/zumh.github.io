@@ -6,24 +6,31 @@ draft = false
 
 
 {{< showcase-section
-    title="Showcase section"
-    subtitle="Subtitle - coming from <code>home.md</code>"
-    buttonText="Email"
-    description="<strong>Strong</strong> and normal text. This comes from <a href='https://github.com/zetxek/adritian-demo/blob/main/content/home/home.md?plain=1'><code>home.md</code></a>, using the <code>showcase-section</code> shortcode.<br/>Below you can see the social links, provided by the <code>platform-links</code> shortcode."
-    image="images/showcase/showcase.png"
-    image2x="images/showcase/showcase@2x.png"
+    
+    title="Lian Lung Ler"
+    
+    subtitle="Software Engineer <h4><code>backend/system developer</code></h4>"
+    
+    description="<br/>Skillls: <ul><li>Python</li><li>C/C++</li> <li>Rust</li> <li>ARM Assembly</li></ul>"
+    
+    button_icon="icon-user"
+    button_text="Resume"
+    button_url=""
+
  >}}
-
 {{< platform-links >}}
+    {{< link icon="email" url="zumhliansang@live.ca" >}}zumhliansang@live.ca
 
-    {{< link icon="linkedin" url="https://www.linkedin.com/in/adrianmoreno/" >}}
-    {{< link icon="square-github" url="https://github.com/zetxek" >}}
+    {{< link icon="square-github" url="https://github.com/Zumh" >}}https://github.com/Zumh
+   
 
 {{< /platform-links >}}
 
+
+
 {{< /showcase-section >}}
 
-{{< about-section
+<!-- {{< about-section
     title="About me"
     content="This content is using the <code>about-section</code> shortcode. <br/>You can write <code>HTML</code>, as long as you <em>wrap it</em> accordingly. "
     button_icon="icon-user"
@@ -32,12 +39,14 @@ draft = false
     image="images/about/user-picture.png"
     image2x="images/about/user-picture@2x.png"
 
- >}}
+ >}} -->
 
 {{< education-list
-    title="Formal Education (education-list)" >}}
+    title="Education" >}}
 
-{{< experience-section
+{{< client-and-work-section
+    title="Projects" >}} 
+<!-- {{< experience-section
     title="My job experience (title)"
     intro_title="Intro (intro_title)"
     intro_description="Description (intro_description).<br>You can use HTML,with <strong>strong</strong> formatting, or lists <ul><li>one</li><li>two</li></ul>" 
@@ -48,17 +57,16 @@ draft = false
     button2_url="/experience"
     button3_text="Button #3"
     button3_url="/experience"
->}}
+>}} -->
 
-## Experience (as list)
+<!-- ## Experience (as list)-->
 
 {{< experience-list >}}
 
-{{< client-and-work-section
-    title="A selection of my work" >}} 
 
-{{< testimonial-section
-    title="What they say about me" >}}
+
+<!-- {{< testimonial-section
+    title="What they say about me" >}} -->
 
 {{< contact-section
     title="Reach out" 
