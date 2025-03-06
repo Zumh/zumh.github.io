@@ -11,7 +11,7 @@ draft = false
     
     subtitle="Software Engineer <h4><code>backend/system developer</code></h4>"
     
-    description="<br/>Skillls: <ul><li>Python</li><li>C/C++</li> <li>Rust</li> <li>ARM Assembly</li></ul>"
+    description="I build things and solved problems. <br/>Skillls: <ul><li>Python</li><li>C/C++</li> <li>Rust</li> <li>ARM Assembly</li></ul>"
     
     button_icon="icon-user"
     button_text="Resume"
