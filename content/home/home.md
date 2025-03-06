@@ -46,22 +46,21 @@ draft = false
 
 {{< client-and-work-section
     title="Projects" >}} 
-<!-- {{< experience-section
-    title="My job experience (title)"
-    intro_title="Intro (intro_title)"
+{{< experience-section
+    title="Expriences"
+    intro_title="Summary"
     intro_description="Description (intro_description).<br>You can use HTML,with <strong>strong</strong> formatting, or lists <ul><li>one</li><li>two</li></ul>" 
     button1_url="https://example.com"
-    button1_text="Visit Example"
+    button1_text="RESUME"
     button1_icon="icon-globe"
     button2_text="All experience"
     button2_url="/experience"
-    button3_text="Button #3"
-    button3_url="/experience"
->}} -->
+ 
+>}}
 
 <!-- ## Experience (as list)-->
-## Experience
-{{< experience-list >}}
+<!-- ## Experience
+{{< experience-list >}} -->
 
 
 
