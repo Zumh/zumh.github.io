@@ -11,7 +11,7 @@ draft = false
     
     subtitle="Software Engineer <h4><code>backend/system developer</code></h4>"
     
-    description="I design, build and solved problems. <br/>Skillls: <ul><li>Python</li><li>C/C++</li> <li>Rust</li> <li>ARM Assembly</li></ul>"
+    description="I design, and build things. <br/>Skillls: <ul><li>Python</li><li>C/C++</li> <li>Rust</li> <li>ARM Assembly</li></ul>"
 
     button_url="/files/ller.pdf"
     button_text="RESUME"
@@ -50,8 +50,9 @@ draft = false
 
 {{< client-and-work-section
     title="Projects" >}} 
+
 {{< experience-section
-    title="Expriences"
+   title="Experience"
     intro_title="Summary"
     intro_description="Description (intro_description).<br>You can use HTML,with <strong>strong</strong> formatting, or lists <ul><li>one</li><li>two</li></ul>" 
     button1_url="https://example.com"
