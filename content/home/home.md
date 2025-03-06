@@ -60,7 +60,7 @@ draft = false
 >}} -->
 
 <!-- ## Experience (as list)-->
-
+## Experience
 {{< experience-list >}}
 
 
@@ -68,7 +68,7 @@ draft = false
 <!-- {{< testimonial-section
     title="What they say about me" >}} -->
 
-{{< contact-section
+<!-- {{< contact-section
     title="Reach out" 
     contact_form_name="Your name?"
     contact_form_email="Your e-mail"
@@ -82,9 +82,9 @@ draft = false
     contact_address_address="🇩🇰 Denmark"
     form_action="https://formspree.io/f/mail@example.com"
     form_method="POST"
->}}
+>}} -->
 
-{{< newsletter-section 
+<!-- {{< newsletter-section 
     newsletter_title="Stay updated"
     newsletter_placeholder="Enter your email"
     newsletter_button="Subscribe"
@@ -96,4 +96,4 @@ draft = false
 >}}
 
 ## Extra content
-Additional content added after the `section` blocks. Here you could freestyle, add other shortcodes, ...  Or just let the content empty, and rely on the shortcode sections alone.
+Additional content added after the `section` blocks. Here you could freestyle, add other shortcodes, ...  Or just let the content empty, and rely on the shortcode sections alone. -->
