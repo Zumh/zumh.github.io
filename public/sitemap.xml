@@ -2,114 +2,117 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://adritian-demo.vercel.app/</loc>
+    <lastmod>2025-03-06T21:34:05-05:00</lastmod>
+  </url><url>
+    <loc>https://adritian-demo.vercel.app/blog/3dgraphics/</loc>
+    <lastmod>2025-03-06T21:34:05-05:00</lastmod>
+  </url><url>
+    <loc>https://adritian-demo.vercel.app/experience/</loc>
     <lastmod>2025-03-06T14:30:23-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/experience/</loc>
+    <loc>https://adritian-demo.vercel.app/experience/softwareengineer/</loc>
     <lastmod>2025-03-06T14:30:23-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/experience/softwareengineer/</loc>
-    <lastmod>2025-03-06T14:30:23-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/icons/</loc>
+    <loc>https://adritian-demo.vercel.app/blog/icons/</loc>
     <lastmod>2025-02-28T08:05:05+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/adritian/</loc>
+    <loc>https://adritian-demo.vercel.app/tags/adritian/</loc>
     <lastmod>2025-02-14T14:38:33+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/guide/</loc>
+    <loc>https://adritian-demo.vercel.app/tags/guide/</loc>
     <lastmod>2025-02-14T14:38:33+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://adritian-demo.vercel.app/tags/</loc>
     <lastmod>2025-02-14T14:38:33+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/shortcodes/</loc>
+    <loc>https://adritian-demo.vercel.app/blog/shortcodes/</loc>
     <lastmod>2025-02-14T14:38:33+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/getting-started/</loc>
+    <loc>https://adritian-demo.vercel.app/blog/getting-started/</loc>
     <lastmod>2025-02-11T14:38:33+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/other-installation-methods/</loc>
+    <loc>https://adritian-demo.vercel.app/blog/other-installation-methods/</loc>
     <lastmod>2025-02-11T14:38:33+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/testimonial/graziella-nutella/</loc>
+    <loc>https://adritian-demo.vercel.app/testimonial/graziella-nutella/</loc>
     <lastmod>2024-11-25T21:53:18+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/testimonial/</loc>
+    <loc>https://adritian-demo.vercel.app/testimonial/</loc>
     <lastmod>2024-11-25T21:53:18+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/testimonial/dana-oneal/</loc>
+    <loc>https://adritian-demo.vercel.app/testimonial/dana-oneal/</loc>
     <lastmod>2024-11-25T21:50:45+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/testimonial/ferdinand-shermand/</loc>
+    <loc>https://adritian-demo.vercel.app/testimonial/ferdinand-shermand/</loc>
     <lastmod>2024-11-25T21:30:46+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/client-work/</loc>
+    <loc>https://adritian-demo.vercel.app/client-work/</loc>
     <lastmod>2024-08-25T10:23:39+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/client-work/ztos/</loc>
+    <loc>https://adritian-demo.vercel.app/client-work/ztos/</loc>
     <lastmod>2024-08-25T10:23:39+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/client-work/zoo/</loc>
+    <loc>https://adritian-demo.vercel.app/client-work/zoo/</loc>
     <lastmod>2024-08-25T10:23:08+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/client-work/kanba/</loc>
+    <loc>https://adritian-demo.vercel.app/client-work/kanba/</loc>
     <lastmod>2024-08-25T10:22:34+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/client-work/goldline/</loc>
+    <loc>https://adritian-demo.vercel.app/client-work/goldline/</loc>
     <lastmod>2024-08-25T10:21:48+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/client-work/earth2.0/</loc>
+    <loc>https://adritian-demo.vercel.app/client-work/earth2.0/</loc>
     <lastmod>2024-08-25T10:17:12+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/client-work/asgardia/</loc>
+    <loc>https://adritian-demo.vercel.app/client-work/asgardia/</loc>
     <lastmod>2024-08-25T09:53:42+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/education/university-of-life/</loc>
+    <loc>https://adritian-demo.vercel.app/education/university-of-life/</loc>
     <lastmod>2024-08-25T09:53:42+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/education/</loc>
+    <loc>https://adritian-demo.vercel.app/education/</loc>
     <lastmod>2024-08-25T09:53:42+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/education/high-school/</loc>
+    <loc>https://adritian-demo.vercel.app/education/high-school/</loc>
     <lastmod>2024-08-25T09:53:42+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>https://adritian-demo.vercel.app/projects/</loc>
     <lastmod>2024-08-25T09:53:42+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/radity-finance-uikit/</loc>
+    <loc>https://adritian-demo.vercel.app/projects/radity-finance-uikit/</loc>
     <lastmod>2024-08-25T09:53:42+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/robo-advisor/</loc>
+    <loc>https://adritian-demo.vercel.app/projects/robo-advisor/</loc>
     <lastmod>2024-08-25T09:53:42+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/swiss-fintech/</loc>
+    <loc>https://adritian-demo.vercel.app/projects/swiss-fintech/</loc>
     <lastmod>2024-08-25T09:53:42+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/sample-3/</loc>
+    <loc>https://adritian-demo.vercel.app/blog/sample-3/</loc>
     <lastmod>2024-06-24T14:38:33+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/lorem-ipsum/</loc>
+    <loc>https://adritian-demo.vercel.app/tags/lorem-ipsum/</loc>
     <lastmod>2024-06-21T14:38:33+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/sample/</loc>
+    <loc>https://adritian-demo.vercel.app/tags/sample/</loc>
     <lastmod>2024-06-21T14:38:33+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/sample/</loc>
+    <loc>https://adritian-demo.vercel.app/blog/sample/</loc>
     <lastmod>2024-06-21T14:38:33+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://adritian-demo.vercel.app/blog/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/experience/job-1/</loc>
+    <loc>https://adritian-demo.vercel.app/experience/job-1/</loc>
     <lastmod>2022-12-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://adritian-demo.vercel.app/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/home/home/</loc>
+    <loc>https://adritian-demo.vercel.app/home/home/</loc>
   </url><url>
-    <loc>http://localhost:1313/home/</loc>
+    <loc>https://adritian-demo.vercel.app/home/</loc>
   </url><url>
-    <loc>http://localhost:1313/cv/</loc>
+    <loc>https://adritian-demo.vercel.app/cv/</loc>
   </url>
 </urlset>

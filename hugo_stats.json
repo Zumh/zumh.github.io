@@ -226,6 +226,7 @@
       "not-even",
       "odd",
       "p-0",
+      "page-3Dgraphics",
       "page-Goldline",
       "page-Kanba",
       "page-Zoo",
@@ -359,7 +360,8 @@
       "title",
       "traditional-installation-as-git-submodule",
       "unordered",
-      "wordcount"
+      "wordcount",
+      "working-on-my-3d-graphics-project"
     ]
   }
 }
