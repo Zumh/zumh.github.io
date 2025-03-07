@@ -20,6 +20,7 @@
     {{- $image2x := "" -}}
     {{- $socialLinks := "" -}}
 
+      {{- $src := "" -}}
   
 
     {{- if $isShortcode }}
@@ -45,8 +46,8 @@
       {{- $image2x = .Site.Data.homepage.showcase.image._2x -}}
       {{- $socialLinks = .Site.Data.homepage.showcase.socialLinks -}}
     {{ end }}
-
-
+    
+ 
 
         {{ warnf "showcase.html: Image x: %q" $imageX }}
         {{ warnf "showcase.html: Image 2x: %q" $image2x }}
@@ -74,9 +75,54 @@
       </div>
       
       <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 profile-image">
+        {{- $controls := false -}}  
+        {{- $loop := true -}}
+        {{- $autoplay := true -}}
      
+        {{ $src := .Get "src" }}
+       
+       
+     
+
+
+        {{ if strings.HasPrefix $src "./" }}
+          <!-- Strip "./" prefix from relative path -->
+          {{ $src = substr $src 2 }}
+        {{ end }}
+        
+        {{ $poster := ((.Page.Resources.ByType "images").GetMatch (printf "%s*" $src)) }}
+        {{ $videos := (.Page.Resources.ByType "video").Match (printf "%s*" $src) }}
+        
+        <!--prettier-ignore-->
+        {{ if .Get "caption" }}
+          <figure>
+        {{ end }}
+        
   
-        {{ partial "video.html" (dict "src" "my-video" "page" .) }}
+         
+          <video
+            {{ if eq (.Get "autoplay") "true" }}autoplay{{ end }}
+            {{ if eq (.Get "controls" | default "true") "true" }}controls{{ end }}
+            {{ with .Get "height" }}height="{{ . }}"{{ end }}
+            {{ if eq (.Get "loop") "true" }}loop{{ end }}
+            {{ if eq (.Get "muted") "true" }}muted{{ end }}
+            {{ with $poster }}poster="{{ .RelPermalink }}"{{ end }}
+            {{ with .Get "preload" }}preload="{{ . }}"{{ end }}
+            {{ with .Get "width" }}width="{{ . }}"{{ end }}
+            {{ if eq (.Get "playsinline" | default "true") "true" }}playsinline{{ end }}
+          >
+            {{- range $videos -}}
+              <source src="{{ .RelPermalink }}" type="{{ .MediaType }}" />
+            {{- end -}}
+          </video>
+     
+        
+        
+        <!--prettier-ignore-->
+        {{ if .Get "caption" }}
+            <figcaption>{{ .Page.RenderString (.Get "caption") }}</figcaption>
+          </figure>
+        {{ end }}
 
         <!-- {{ $img := resources.Get $imageX }}
         {{ $img2x := resources.Get $image2x }}

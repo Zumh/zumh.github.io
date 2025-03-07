@@ -13,10 +13,11 @@ draft = false
     button_url="/files/ller.pdf"
     button_text="RESUME"
     button_icon="icon-file-pdf" 
-   
-
+    
+   src="my-video"
 
  >}}
+
 
 
     {{< platform-links >}}
