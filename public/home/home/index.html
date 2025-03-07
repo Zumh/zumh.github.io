@@ -167,7 +167,6 @@
       
 
 
-
         
         
 
@@ -192,43 +191,44 @@
         </a>
         
       </div>
-      
       <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 profile-image">
-     
-  
- 
+
+        
+        
+
+        
+        
+
+        
+        
+              
+         
+
+        
+        
+
+        <picture>
+          <source srcset="/images/showcase/showcase_hu_da5d128740d0b0b3.webp 1x, /images/showcase/showcase@2x_hu_742323394d601245.webp 2x" type="image/webp" />
+          <source srcset="/images/showcase/showcase.png 1x, /images/showcase/showcase@2x.png 2x" type="image/webp">
+          <img
+            width="790"
+            height="768"
+            class="lozad img-responsive"
+            src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
+            srcset="/images/showcase/showcase.png 1x, /images/showcase/showcase@2x.png 2x"
+            data-src="/images/showcase/showcase.png"
+            data-srcset="/images/showcase/showcase.png 1x, /images/showcase/showcase@2x.png 2x"
+            alt='A picture of Cool Name'
+          />
+        </picture>
+        
         
 
 
 
-     
-    </div>
+      </div>
     <div class="col-12 inner-content">
       
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
     
@@ -280,27 +280,6 @@ https://github.com/Zumh
   </div>
   
 </section>
-
-
-<script>
-  document.addEventListener("DOMContentLoaded", function () {
-      const imageFolder = "/images/showcase/";
-      const images = ["image1.jpg", "image2.jpg", "image3.jpg"]; 
-
-      const carouselInner = document.getElementById("carouselImages");
-      images.forEach((img, index) => {
-          let isActive = index === 0 ? "active" : "";
-          carouselInner.innerHTML += `
-              <div class="carousel-item ${isActive}">
-                  <img src="${imageFolder}${img}" class="d-block w-100" alt="Showcase Image">
-              </div>`;
-      });
-  });
-</script>
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
-
 
 
 <!-- 

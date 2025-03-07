@@ -20,8 +20,6 @@
     {{- $image2x := "" -}}
     {{- $socialLinks := "" -}}
 
-  
-
     {{- if $isShortcode }}
       {{/* Shortcode params */}}
       {{- $showcaseTitle = .Get "title" | default ( i18n "showcase_title" ) -}}
@@ -45,7 +43,6 @@
       {{- $image2x = .Site.Data.homepage.showcase.image._2x -}}
       {{- $socialLinks = .Site.Data.homepage.showcase.socialLinks -}}
     {{ end }}
-
 
 
         {{ warnf "showcase.html: Image x: %q" $imageX }}
@@ -72,13 +69,9 @@
         </a>
         {{ end }}
       </div>
-      
       <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 profile-image">
-     
-  
-        {{ partial "video.html" (dict "src" "my-video" "page" .) }}
 
-        <!-- {{ $img := resources.Get $imageX }}
+        {{ $img := resources.Get $imageX }}
         {{ $img2x := resources.Get $image2x }}
 
         {{ if not $img }}
@@ -86,7 +79,7 @@
         {{ end }}
         {{ if not $img2x }}
             {{ warnf "showcase.html: Image 2x not found: %q" $image2x }}
-        {{ end }} 
+        {{ end }}
 
         {{ with $img }}
         {{ with $img2x}}
@@ -111,12 +104,11 @@
           />
         </picture>
         {{ end }}
-        {{ end }} -->
+        {{ end }}
 
 <!-- future "right text -->
 
-     
-    </div>
+      </div>
 
     {{- if $inner }}
     <div class="col-12 inner-content">
@@ -141,23 +133,3 @@
   </div>
   
 </section>
-
-
-<script>
-  document.addEventListener("DOMContentLoaded", function () {
-      const imageFolder = "/images/showcase/";
-      const images = ["image1.jpg", "image2.jpg", "image3.jpg"]; // Replace this with actual file names if fetched dynamically
-
-      const carouselInner = document.getElementById("carouselImages");
-      images.forEach((img, index) => {
-          let isActive = index === 0 ? "active" : "";
-          carouselInner.innerHTML += `
-              <div class="carousel-item ${isActive}">
-                  <img src="${imageFolder}${img}" class="d-block w-100" alt="Showcase Image">
-              </div>`;
-      });
-  });
-</script>
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
