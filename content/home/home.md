@@ -13,7 +13,7 @@ draft = false
     button_url="/files/ller.pdf"
     button_text="RESUME"
     button_icon="icon-file-pdf" 
-    image="images/showcase/showcase.png"
+    image="images/showcase/plane.jpg"
     image2x="images/showcase/showcase@2x.png"
 
 
