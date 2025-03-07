@@ -5,36 +5,39 @@ draft = false
 +++
 
 
-{{< showcase-section
-    
-    title="Lian Lung Ler"
-    
-    subtitle="Software Engineer <h4><code>backend/system developer</code></h4>"
-    
-    description="I design, and build things. <br/>Skills: <ul><li>Python</li><li>C/C++</li> <li>Rust</li> <li>ARM Assembly</li><li>SQL</li></ul>"
 
+{{< showcase-section 
+    title="Lian Lung Ler"
+    subtitle="Software Engineer <h4><code>Backend/System developer</code></h4>"
+    description="I design, and build things. <br/>Skills: <ul><li>Python</li><li>C/C++</li> <li>Rust</li> <li>ARM Assembly</li><li>SQL</li></ul>"
     button_url="/files/ller.pdf"
     button_text="RESUME"
-    button_icon="icon-file-pdf"
-    
-    
+    button_icon="icon-file-pdf" 
+    image="images/showcase/showcase.png"
+    image2x="images/showcase/showcase@2x.png"
 
  >}}
 
-{{< platform-links >}}
 
-    {{< link icon="email" url="zumhliansang@live.ca" >}}zumhliansang@live.ca
 
-    {{< link icon="square-github" url="https://github.com/Zumh" >}}https://github.com/Zumh
-   
 
-{{< /platform-links >}}
+
+
+
+    {{< platform-links >}}
+
+        {{< link icon="email" url="zumhliansang@live.ca" >}}zumhliansang@live.ca
+
+        {{< link icon="square-github" url="https://github.com/Zumh" >}}https://github.com/Zumh
+    
+
+    {{< /platform-links >}}
 
 
 
 {{< /showcase-section >}}
-
-<!-- {{< about-section
+<!-- 
+{{< about-section
     title="About me"
     content="This content is using the <code>about-section</code> shortcode. <br/>You can write <code>HTML</code>, as long as you <em>wrap it</em> accordingly. "
     button_icon="icon-user"
