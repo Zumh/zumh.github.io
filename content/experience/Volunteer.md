@@ -13,3 +13,9 @@ duration: "2008-2014"
 # The beginning of a great career. 
 # 
 ---
+
+### Working Center (2013 - 2018)
+
+### Kitchener Chin Baptist Church (2008 - 2014)
+
+
