@@ -19,6 +19,5 @@ Throughout my career, I've focused on creating scalable, maintainable software u
 
 ### Experience
 {{< experience-list >}}
-
-{{< education-list title="Education" >}}
+{{< education-list  >}}
 
