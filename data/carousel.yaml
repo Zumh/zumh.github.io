@@ -1,0 +1,5 @@
+images: 
+  - image: /uploads/image1.jpg
+    content_html: "1"
+  - image: /uploads/image2.jpg
+    content_html: "2"

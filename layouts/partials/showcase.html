@@ -70,8 +70,9 @@
         {{ end }}
       </div>
       <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 profile-image">
-
-        {{ $img := resources.Get $imageX }}
+        <!-- https://hugocodex.org/add-ons/slider-carousel/ -->
+        {{ partial "carousel.html" (dict "context" . "items" "1" "height" "500" "unit" "px" "duration" "7000") }}
+        <!-- {{ $img := resources.Get $imageX }}
         {{ $img2x := resources.Get $image2x }}
 
         {{ if not $img }}
@@ -104,7 +105,7 @@
           />
         </picture>
         {{ end }}
-        {{ end }}
+        {{ end }} -->
 
 <!-- future "right text -->
 
