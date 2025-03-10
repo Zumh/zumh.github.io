@@ -2,6 +2,10 @@
 
 https://zumh.github.io/
 
+## Add image inside static/uploads/
+- edit data/carousel.yaml file
+- https://hugocodex.org/add-ons/slider-carousel/
+
 ## Possible dynamic image loading solution
 
 Yes, you can dynamically load images from a folder (e.g., `uploads`) in Hugo without manually editing the `yaml` file every time. Hugo provides powerful features like **Page Resources** and **Hugo Pipes** that allow you to work with files dynamically. Here's how you can achieve this:
