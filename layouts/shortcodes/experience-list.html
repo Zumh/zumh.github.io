@@ -5,7 +5,7 @@
 
             {{ $xpCount := len $xp }}
 
-            {{ range first $xpCount (sort $xp "Date" "desc") }}
+            {{ range first $xpCount (sort $xp "Date" "asc") }}
             <div class="experience row">
                 <div class="experience__header col-3 d-flex align-items-start">
                     {{ $img := resources.Get .Params.companyLogo }}

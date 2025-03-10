@@ -3,6 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
+<<<<<<< HEAD
     <lastmod>2025-03-06T21:34:05-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/3dgraphics/</loc>
@@ -14,6 +15,25 @@
     <loc>http://localhost:1313/experience/softwareengineer/</loc>
     <lastmod>2025-03-06T14:30:23-05:00</lastmod>
   </url><url>
+=======
+    <lastmod>2025-03-09T13:27:19-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/experience/</loc>
+    <lastmod>2025-03-09T13:27:19-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/experience/2008-2014/</loc>
+    <lastmod>2025-03-09T13:27:19-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/experience/2014-2017/</loc>
+    <lastmod>2025-03-09T13:13:25-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/3dgraphics/</loc>
+    <lastmod>2025-03-06T21:34:05-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/experience/2024-2025/</loc>
+    <lastmod>2025-03-06T14:30:23-05:00</lastmod>
+  </url><url>
+>>>>>>> main
     <loc>http://localhost:1313/blog/icons/</loc>
     <lastmod>2025-02-28T08:05:05+01:00</lastmod>
   </url><url>
@@ -104,6 +124,7 @@
     <loc>http://localhost:1313/blog/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
+<<<<<<< HEAD
     <loc>http://localhost:1313/experience/job-1/</loc>
     <lastmod>2022-12-01T00:00:00+01:00</lastmod>
   </url><url>
@@ -114,5 +135,12 @@
     <loc>http://localhost:1313/home/</loc>
   </url><url>
     <loc>http://localhost:1313/cv/</loc>
+=======
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/home/home/</loc>
+  </url><url>
+    <loc>http://localhost:1313/home/</loc>
+>>>>>>> main
   </url>
 </urlset>

@@ -127,10 +127,10 @@ name = "Blogs"
 URL = "/blog"
 weight = 5
 
-[[languages.en.menus.header]]
-name = "CV"
-URL = "/cv"
-weight = 6
+# [[languages.en.menus.header]]
+# name = "CV"
+# URL = "/cv"
+# weight = 6
 
 # [[languages.en.menus.header]]
 # name = "Contact"

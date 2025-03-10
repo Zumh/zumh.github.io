@@ -28,7 +28,7 @@
       {{ end }}
       {{ end }}
 
-      {{ range first $totalCount (sort $xp "Date" "desc") }}
+      {{ range first $totalCount (sort $xp "Date" "asc") }}
       <div class="experience">
         <a href="{{ .Permalink | relURL }}" class="experience__link">
           <div class="experience__header">

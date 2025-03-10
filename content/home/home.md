@@ -7,14 +7,20 @@ draft = false
 
 
 {{< showcase-section 
-    title="Lian Lung Ler"
+    title="Lian"
     subtitle="Software Engineer <h4><code>Backend/System developer</code></h4>"
-    description="I design, and build things. <br/>Skills: <ul><li>Python</li><li>C/C++</li> <li>Rust</li> <li>ARM Assembly</li><li>SQL</li></ul>"
+    description="I design, and build things. <br/>Skills: <ul><li>Python, Javascript</li><li>C/C++, C#, Rust</li> <li>ARM Assembly</li><li>SQL</li></ul>"
     button_url="/files/ller.pdf"
     button_text="RESUME"
     button_icon="icon-file-pdf" 
+<<<<<<< HEAD
     
    src="my-video"
+=======
+    image="images/showcase/plane.jpg"
+    image2x="images/showcase/showcase@2x.png"
+
+>>>>>>> main
 
  >}}
 
