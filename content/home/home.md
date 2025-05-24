@@ -29,7 +29,6 @@ draft = false
 
     {{< /platform-links >}}
 
-<!-- {{< carousel items="1" height="500" unit="px" duration="7000" >}} -->
 
 {{< /showcase-section >}}
 <!-- 
